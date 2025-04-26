@@ -1,4 +1,2 @@
-# devanshi_211
-<u>this is my first repository.</u>
-<br>
-<b>author</B>- rabadiya devanshi.
+my name is rabadiya devanshi
+i am study in l.d.college of engineering.
